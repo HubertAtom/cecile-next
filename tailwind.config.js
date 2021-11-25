@@ -205,6 +205,11 @@ module.exports = {
       '2xl': '0 25px 25px rgba(0, 0, 0, 0.15)',
       none: '0 0 #0000',
     },
+    extend: {
+      fontFamily: {
+        'great-wishes': ["Great-Wishes"],
+      }
+    },
     fill: { current: 'currentColor' },
     grayscale: {
       0: '0',
