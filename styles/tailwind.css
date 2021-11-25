@@ -5,6 +5,6 @@
 @layer base {
     @font-face {
         font-family: "great-wishes";
-        src: url('/public/fonts/GreatWishes.otf') format('opentruetype');
+        src: url('/fonts/GreatWishes.otf') format('otf');
     }
 }
