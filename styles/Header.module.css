@@ -1,0 +1,23 @@
+.header {
+    display: flex;
+    align-items: center;
+    font-size: 1.6rem;
+    height: 10vh;
+    min-height: 70px;
+    max-width: 1200px;
+    margin: auto;
+    padding-left: 5rem;
+    padding-right: 5rem;
+  }
+  
+  .title {
+    font-weight: bold;
+    margin-right: auto;
+  }
+  
+  .menu {
+    display: flex;
+  }
+  .menu a {
+    margin-left: 2rem;
+  }
